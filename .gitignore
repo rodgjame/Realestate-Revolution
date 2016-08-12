@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Applications/MapsApi/.vs
+/Applications/MapsApi/MapsApi/bin
+/Applications/MapsApi/MapsApi/obj/Debug
+/Applications/MapsApi/packages
